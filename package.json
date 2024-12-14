@@ -1,0 +1,17 @@
+{
+  "name": "06e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:open": "cypress open",
+  "test:run": "cypress run"
+  },
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.16.1",
+    "jest": "^29.7.0"
+  }
+}
